@@ -1,0 +1,13 @@
+md5: 65b4368931ab732eebde550a89fc54b0
+frozen: true
+deps:
+- checksum: '"617b56af2992376d5c3e91ad80823898"'
+  size: 333757
+  hash: md5
+  path: 
+    https://datascientest-mlops.s3.eu-west-1.amazonaws.com/mlops_dvc_fr/raw.csv
+outs:
+- md5: 617b56af2992376d5c3e91ad80823898
+  size: 333757
+  hash: md5
+  path: minerals_raw_data.csv
